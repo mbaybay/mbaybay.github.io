@@ -1,0 +1,78 @@
+{
+    "basics": {
+        "label": "Software Engineer - Health Tech",
+        "email": "baybaymelanie@gmail.com",
+        "website": "mbaybay.github.com",
+        "summary": "Melanie is a versatile software engineer with a passion for developing technology that empowers people in their healthcare journey. She strives to build the products and solutions that positively impact both patients and the clinicians who serve them, utilizing skills in web application development, data analytics, data science, and cloud computing."
+    },
+    "work": [
+        {
+            "company": "Kaiser Permanente",
+            "position": "Technical Associate, Cloud Application Platforms",
+            "startDate": "July 2018",
+            "endDate": "",
+            "summary": 
+                "3rd Rotation: Cloud Application Platforms<br>- Enabling developers to deliver cloud native applications by managing, configuring, and testing platform as a service solutions<br>- Skills & Tools: IBM Cloud, Cloud Foundry, Jenkins<br><br>2nd Rotation: Kaiser Permanente Research Bank<br>- Built an ETL pipeline for the KP Research Bank to integrate electronic health records, health surveys, and lab information system data of consented participants from all eight of Kaiser Permanente’s regions for precision medicine research <br>- Skills & Tools: Microsoft SQL Server, Python, SAS<br><br>1st Rotation: Strategic Technologies, Blockchain<br>- Developed a decentralized application that utilized blockchain technology, APIs, and web components for a drug supply chain proof of concept<br>- Skills & Tools: Node.js, React.js, Meteor, RESTful API, Postman, Ethereum, Solidity"
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of San Francisco",
+            "area": "Computer Science",
+            "studyType": "Master of Science",
+            "startDate": "2016-08-01",
+            "endDate": "2018-05-01",
+            "gpa": "3.67"
+        },
+        {
+            "institution": "University of San Francisco",
+            "area": "Biology",
+            "studyType": "Bachelor of Science",
+            "startDate": "2011-08-01",
+            "endDate": "2015-05-01",
+            "gpa": "3.48"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Multi-node2vec: Fast Feature Engineering for Multilayer Networks",
+            "publisher": "Wilson, J.D., Baybay, M., Sankar, R., and Stillman, P.",
+            "releaseDate": "2018",
+            "website": "https://arxiv.org/pdf/1809.06437.pdf"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Software Engineering",
+            "level": "Intermediate",
+            "keywords": [
+                "web-application"
+            ]
+        },
+        {
+            "name": "Analytics",
+            "level": "Intermediate",
+            "keywords": [
+                "Data Science",
+                "Data Visualization"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hiking, Camping, Backpacking"
+        },
+        {
+            "name": "Muay Thai"
+        }, 
+        {
+            "name": "Brazilian Jiu-Jitsu"
+        }
+    ]
+}
